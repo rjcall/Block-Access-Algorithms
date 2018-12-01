@@ -22,3 +22,16 @@
 	**Directions:**
 		1. Open terminal in assn6 folder
 		2. ../assn6/# python assn6.py <FILENAME.txt>
+
+
+### Output: With this block-list.txt
+
+	# python assn6.py block-list.txt
+
+	Assignment 6: Block Access Algorithm
+	By: Robert Call
+
+	FCFS Total Seek: 1594
+	SSTF Total Seek: 287
+	LOOK Total Seek: 269
+	C-LOOK Total Seek: 477
