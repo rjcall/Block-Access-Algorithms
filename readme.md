@@ -17,9 +17,9 @@
 
 ### Usage: 
 	
-	**Works with either Python2 or Python3.**
+	Works with either Python2 or Python3.
 	
-	**Directions:**
+	Directions:
 		1. Open terminal in assn6 folder
 		2. ../assn6/# python assn6.py <FILENAME.txt>
 
