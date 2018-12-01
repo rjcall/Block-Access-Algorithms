@@ -1,5 +1,9 @@
 # Assignment 6 - Block Access Algorithms
 
+## Notice to Students
+
+**Because this code is related to school coursework, any students using this code does so without my knowledge or permission.** 
+
 ### Objective:
 	In this assignment, you will be writing a program that reads a list of disk block access requests from stdin or from a file specified on the command line.
 	That list will be used four times to run through the following block access algorithms:
